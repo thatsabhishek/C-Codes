@@ -7,9 +7,9 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
 
 ## List of Programs
 - [Searching](./Searching)
-  - [Binary Search](./Searching/binarysearch.c)
-  - [Linear Search](./Searching/linearsearch.c)
-- [Sorts](./Sorts)
-  - [Bubble Sort](./Sorts/bubblesort.c)
-  - [Insertion Sort](./Sorts/insertionsort.c)
-  - [Selection Sort](./Sorts/selectionsort.c)
+  - [Binary Search](./searching/binarysearch.c)
+  - [Linear Search](./searching/linearsearch.c)
+- [Sorting](./sorting)
+  - [Bubble Sort](./sorts/bubblesort.c)
+  - [Insertion Sort](./sorting/insertionsort.c)
+  - [Selection Sort](./sorting/selectionsort.c)
