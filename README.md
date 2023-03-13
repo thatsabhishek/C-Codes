@@ -11,6 +11,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Linear Search](./searching/linearsearch.c)
 - [Sorting](./sorting)
   - [Bubble Sort](./sorts/bubblesort.c)
-  - [Insertion Sort](./sorting/insertion_sort.c)
-  - [Ouick Sort](./sorting/quick_sort.c)
+  - [Insertion Sort](./sorting/Insertion_sort.c)
+  - [Ouick Sort](./sorting/Quick_sort.c)
   - [Selection Sort](./sorting/selectionsort.c)
