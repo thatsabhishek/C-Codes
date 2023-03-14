@@ -10,7 +10,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Binary Search](./searching/binarysearch.c)
   - [Linear Search](./searching/linearsearch.c)
 - [Sorting](./sorting)
-  - [Bubble Sort](./sorts/bubblesort.c)
+  - [Bubble Sort](./sorting/bubblesort.c)
   - [Insertion Sort](./sorting/Insertion_sort.c)
   - [Merge Sort](./sorting/mergesort.c)
   - [Ouick Sort](./sorting/Quick_sort.c)
