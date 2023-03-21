@@ -15,3 +15,5 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Merge Sort](./sorting/mergesort.c)
   - [Ouick Sort](./sorting/Quick_sort.c)
   - [Selection Sort](./sorting/selectionsort.c)
+- [Other Programs](./otherprograms)
+  - [Prime number or not](./otherprograms/primenumber.c)
