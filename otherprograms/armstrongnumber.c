@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int is_armstrong_number(int num) {
     int n = num;
