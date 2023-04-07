@@ -19,5 +19,6 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Armstrong number or not](./otherprograms/armstrongnumber.c)
   - [Factorial of a number](./otherprograms/factorial.c)
   - [Fibonacci Series](./otherprograms/fibonacci.c)
+  - [Leap Year or not](./otherprograms/leapyear.c)
   - [Prime number or not](./otherprograms/primenumber.c)
   - [Prime numbers upto n](./otherprograms/primenumupton.c)
