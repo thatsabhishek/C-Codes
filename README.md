@@ -17,6 +17,7 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Selection Sort](./sorting/selectionsort.c)
 - [Other Programs](./otherprograms)
   - [Armstrong number or not](./otherprograms/armstrongnumber.c)
+  - [GCD of 2 number](./otherprograms/gcd.c)
   - [Factorial of a number](./otherprograms/factorial.c)
   - [Fibonacci Series](./otherprograms/fibonacci.c)
   - [Leap Year or not](./otherprograms/leapyear.c)
