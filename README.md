@@ -21,6 +21,8 @@ In case, the list becomes too big in the future you can use `cmd + f` or `ctrl +
   - [Factorial of a number](./otherprograms/factorial.c)
   - [Fibonacci Series](./otherprograms/fibonacci.c)
   - [Leap Year or not](./otherprograms/leapyear.c)
+  - [Multiplication of first n numbers](./otherprograms/multioffirstnnumbers.c)
   - [Palindrome Number or not](./otherprograms/palindromenumber.c)
   - [Prime number or not](./otherprograms/primenumber.c)
   - [Prime numbers upto n](./otherprograms/primenumupton.c)
+  - [Sum of first n numbers](./otherprograms/sumoffirstnnumbers.c)
